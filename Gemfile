@@ -41,6 +41,8 @@ gem 'haml'
 gem 'ckeditor', '~> 4.1'
 gem 'devise'
 gem "html2haml"
+gem 'carrierwave'
+gem 'mini_magick'
 
 
 group :development, :test do
